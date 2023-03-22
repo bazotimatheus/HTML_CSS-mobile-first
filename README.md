@@ -1,2 +1,2 @@
 # HTML_CSS-mobile-first
-Projeto feito durante o curso de mobile first da Alura
+Projeto feito durante o curso de responsividade com mobile first da Alura
